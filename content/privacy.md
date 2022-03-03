@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-## POLÍTICAS Y SU ACEPTACIÓN
+## Políticas y su aceptación
 
 Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de los servicios del portal de Internet [www.senadord.gob.do](https://www.senadord.gob.do) (en lo adelante, el “**Portal**”) del Senado de la República Dominicana (en lo que sigue, la “**Senado de la República**”), entidad oficial del Estado Dominicano, con su sede y oficinas principales en la Av. Enrique Jiménez Moya, Esq. Juan de Dios Ventura Simó, Centro de los Héroes de Constanza, Maimón y Estero Hondo (La Feria), Edificio del Congreso Nacional, Distrito Nacional, República Dominicana.
 
@@ -50,4 +50,4 @@ Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de l
 
 9. Legislación aplicable.  Las Presentes Políticas se rigen en todas y cada una de sus partes por las leyes de la República Dominicana.
 
-**Jurisdicción**.  El Senado de la República y el Usuario, con renuncia tácita a cualquier otro fuero, se someten al de los tribunales de la República Dominicana. Para cualquier sugerencia o propuesta de colaboración escríbanos a nuestro correo electrónico info@senado.gob.do Esta dirección de correo electrónico está siendo protegida de \”spam bots\”, necesita habilitar Javascript para poder verla, o llámenos al siguiente número de teléfono: (809) 532-5561.
+**Jurisdicción**.  El Senado de la República y el Usuario, con renuncia tácita a cualquier otro fuero, se someten al de los tribunales de la República Dominicana. Para cualquier sugerencia o propuesta de colaboración escríbanos a nuestro correo electrónico info@senado.gob.do Esta dirección de correo electrónico está siendo protegida de ”spam bots”, necesita habilitar Javascript para poder verla, o llámenos al siguiente número de teléfono: (809) 532-5561.
