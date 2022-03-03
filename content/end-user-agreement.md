@@ -1,0 +1,5 @@
+# Aviso Legal
+
+El Senado de la República se define como una institución política del Estado dominicano, parte del Poder Legislativo, cuyos integrantes son elegidos por votación popular directa escenificada en un territorio determinado, de donde emanan disposiciones que regulan la vida nacional y se controlan actuaciones de los demás entes y órganos del Estado. Está integrado por 32 senadores y senadoras, elegidos por los habitantes de las 31 provincias y el Distrito Nacional que integran el país.
+
+El Senado encuentra su regulación o marco legal en la Constitución de la República, en la Ley 46-97, del 18 de febrero de 1997, que estableció su autonomía presupuestaria; en su Reglamento Interno y en sus manuales debidamente aprobados e instructivos de funcionamiento de sus dependencias. Su administración de personal se regula por la Ley 02-06, del 10 de enero de 2006, Ley de Carrera Administrativa del Congreso Nacional y su Reglamento de aplicación número 1-6, del 1 de agosto de 2006.
