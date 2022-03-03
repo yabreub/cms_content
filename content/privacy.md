@@ -1,8 +1,10 @@
-# POLÍTICAS Y SU ACEPTACIÓN
+# Política de Privacidad
+
+## POLÍTICAS Y SU ACEPTACIÓN
 
 Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de los servicios del portal de Internet [www.senadord.gob.do](https://www.senadord.gob.do) (en lo adelante, el “**Portal**”) del Senado de la República Dominicana (en lo que sigue, la “**Senado de la República**”), entidad oficial del Estado Dominicano, con su sede y oficinas principales en la Av. Enrique Jiménez Moya, Esq. Juan de Dios Ventura Simó, Centro de los Héroes de Constanza, Maimón y Estero Hondo (La Feria), Edificio del Congreso Nacional, Distrito Nacional, República Dominicana.
 
-## I.- Condiciones
+### I.- Condiciones
 
 1. Menores de edad. - Para hacer uso de los Servicios que requieran la recopilación de Datos Personales por parte del Senado de la República a través del Portal, los menores de edad deben obtener permiso previo por parte de sus padres, tutores o representantes legales, quienes serán considerados responsables de todos los actos realizados por los menores dispuestos a su cargo.
 
@@ -12,7 +14,7 @@ Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de l
 
 4. El Usuario o terceros perjudicados por la recepción de mensajes no solicitados dirigidos a una pluralidad de personas podrán comunicárselo al Senado de la República remitiendo un mensaje a la siguiente dirección de correo electrónico: info@senado.gob.do.
 
-##  II.- No Licencia
+###  II.- No Licencia
 
 1. Todas las marcas, nombres comerciales o signos distintivos de cualquier clase que aparecen en el Portal son propiedad del Senado de la República o de terceros, sin que pueda entenderse que el uso o acceso al Portal y/o a los Servicios atribuya al Usuario derecho alguno sobre los citados signos distintivos.
 
@@ -20,7 +22,7 @@ Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de l
 
 3. Queda estrictamente prohibida la comercialización en cualquier forma y bajo cualquier título del material contenido en este sitio, sin contar con la previa autorización por escrito del Senado de la República. Este portal podrá contener información proveniente de otras fuentes, por lo que en estos casos, se deberá requerir el consentimiento de ellas para su reproducción.
 
-## III. Exclusión de garantías y de responsabilidad:
+### III. Exclusión de garantías y de responsabilidad:
 
 1. Disponibilidad y continuidad, utilidad y falibilidad. - El Senado de la República no garantiza la disponibilidad y continuidad del funcionamiento del Portal y de los Servicios. Cuando ello sea razonablemente posible, el Senado de la República advertirá previamente de las interrupciones en el funcionamiento del Portal y de los Servicios. El Senado de la República tampoco garantiza la utilidad del Portal y de los Servicios para la realización de ninguna actividad en concreto, ni su infalibilidad y, en particular, aunque no de modo excluyente, que el Usuario pueda efectivamente utilizar el Portal y los Servicios, acceder a las distintas páginas Web que forman el Portal o a aquellas desde las que se prestan los Servicios.
 
@@ -42,7 +44,7 @@ Estas Políticas (en adelante, las “**Políticas**”) condicionan el uso de l
 - En el supuesto de violación de derechos, firma manuscrita o equivalente, con los Datos Personales del titular de los derechos supuestamente infringidos o de la persona autorizada para actuar en nombre y por cuenta de ésta.
 - Declaración expresa, clara y bajo la responsabilidad del reclamante de que la información proporcionada en la notificación es exacta y del carácter ilícito de la utilización de los contenidos o de la realización de las actividades descritas.
 
-### Notificaciones
+#### Notificaciones
 
 8. Todas las notificaciones y comunicaciones (en adelante, las “Notificaciones”) por parte del Usuario al Senado de la República se considerarán eficaces, a todos los efectos: (i) cuando se nos envíen por mensajería a la siguiente dirección: Av. Enrique Jiménez Moya, Esq. Juan de Dios Ventura Simó, Centro de los Héroes de Constanza, Maimón y Estero Hondo (La Feria), Edificio del Congreso Nacional, Distrito Nacional, República Dominicana.
 
