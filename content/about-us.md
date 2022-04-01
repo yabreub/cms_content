@@ -1,4 +1,4 @@
-# Quienes somos
+# Quiénes somos
 
 El Senado de la República se define como una institución política del Estado dominicano, parte del Poder Legislativo, cuyos integrantes son elegidos por votación popular directa escenificada en un territorio determinado, de donde emanan disposiciones que regulan la vida nacional y se controlan actuaciones de los demás entes y órganos del Estado. Está integrado por 32 senadores y senadoras, elegidos por los habitantes de las 31 provincias y el Distrito Nacional que integran el país.
 
